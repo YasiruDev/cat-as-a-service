@@ -1,0 +1,16 @@
+# node modules
+node_modules
+
+# .env
+.env
+/.vscode
+
+#keys
+keys/
+coverage/
+
+#errors
+undefinederror/
+undefinedinfo/
+undefinedfatal/
+
